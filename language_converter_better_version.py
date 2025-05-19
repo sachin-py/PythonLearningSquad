@@ -49,9 +49,8 @@ Enter the text you want to translate.
 Enter the target language code (see above).
 Check 'language.txt' for saved results.
 
-AUTHOR:
--------
-Python Learning Squad (YouTube Channel)
+Author: Sachin Kumar
+GitHub: https://github.com/sachin-py
 
 ====================================================================
 """

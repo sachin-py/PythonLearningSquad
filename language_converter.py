@@ -40,6 +40,9 @@ USAGE:
 4. The script will detect the input language, translate the text, display the
    result, and append both the input and translated text to 'language.txt'.
 
+Author: Sachin Kumar
+GitHub: https://github.com/sachin-py
+
 ==============================================================================
 
 """
